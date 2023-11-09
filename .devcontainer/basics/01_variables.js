@@ -7,4 +7,4 @@ accountEmail = "ritik@google.com"
 accountPassword = "9999"
 accountCity ="Bhopal"
 
-console.table([ accountId, accountEmail, accountPassword, accountCity]);
+// console.table([ accountId, accountEmail, accountPassword, accountCity]);
